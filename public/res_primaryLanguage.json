@@ -81,37 +81,30 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Self Employed",
+        "title": "Freelance Web Developer",
+        "years": "1.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HubSpot"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "CodeCrew",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "01.2023 - 09.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Javascript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "CSS",
+          "HTML",
+          "C#",
+          "MongoDB"
         ]
       }
     ]
