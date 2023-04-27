@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Joshua Cannon. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Joshua Cannon. Results driven, customer focused, full-stack javascript developer experienced with developing websites and applications from front to back with user-friendly UIs and developer-friendly APIs",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Proven PCI",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Five page website and full blog I built for Memphis financial tech",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/animal-shelter/p2.png"
         ],
         "url": "",
         "technologies": [
@@ -35,21 +35,21 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Rock, Paper, Scissors",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Rock, Paper, Scissors game built with vanilla Javascript, HTML, and CSS",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/JovialJSers/rock-paper-scissors",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-react-plain",
             "name": "JavaScript"
           }
         ]
